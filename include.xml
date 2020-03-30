@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Github -->
+  <remote  name="github"
+           fetch="https://github.com/" />
+
+  <!-- GitHub (sourajitk) -->
+  <remote  name="sourajitk"
+           revision="10_r32"
+           fetch="https://github.com/sourajitk/" />
+
+<!-- Framework -->
+<project path="frameworks/base" name="android_frameworks_base" remote="sourajitk" />
+
+<!-- Packages -->
+<project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="sourajitk" />
+
+</manifest>
