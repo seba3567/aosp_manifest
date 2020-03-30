@@ -11,9 +11,9 @@
            fetch="https://github.com/sourajitk/" />
 
 <!-- Framework -->
-<project path="frameworks/base" name="android_frameworks_base" remote="sourajitk" />
+<project path="frameworks/base" name="platform_frameworks_base" remote="sourajitk" />
 
 <!-- Packages -->
-<project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="sourajitk" />
+<project path="packages/apps/Settings" name="packages_apps_Settings" remote="sourajitk" />
 
 </manifest>
