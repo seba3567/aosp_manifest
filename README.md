@@ -1,7 +1,7 @@
 # aosp_manifest
 
 ## Before beginning... ##
-This is just a fork of the latest AOSP manifest with some AOSP apps removed.  
+This is just a fork of the latest AOSP manifest with some of my own repos being tracked and some AOSP apps removed.
 
 ## Building Android ##
 [Setting Up Build Environment](https://raw.githubusercontent.com/nathanchance/Android-Tools/master/Guides/Building_AOSP.txt)
