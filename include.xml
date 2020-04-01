@@ -20,4 +20,7 @@
 <!--Providers-->
 <project path="packages/providers/WeatherProvider" name="packages_providers_WeatherProvider" remote="sourajitk" />
 
+<!--Device Tree-->
+<project path="device/essential/mata" name="stock_mata_trees" remote="sourajitk" revision="stock" />
+
 </manifest>
