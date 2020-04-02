@@ -16,6 +16,8 @@
 <!-- Packages -->
 <project path="packages/apps/Settings" name="packages_apps_Settings" remote="sourajitk" />
 <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="sourajitk" />
+<project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="sourajitk" />
+
 
 <!--Providers-->
 <project path="packages/providers/WeatherProvider" name="packages_providers_WeatherProvider" remote="sourajitk" />
