@@ -1,4 +1,4 @@
-# aosp_manifest
+# AOSP
 
 ## Before beginning... ##
 This is just a fork of the latest AOSP manifest with some of my own repos being tracked and some AOSP apps removed.
@@ -8,7 +8,7 @@ This is just a fork of the latest AOSP manifest with some of my own repos being 
 
 ## Repo Init ##
 ```bash
-repo init -u https://github.com/sourajitk/aosp_manifest.git -b 10_r32
+repo init -u https://github.com/sourajitk/aosp_manifest.git -b 10
 ```
 ## Sync Source ##
 ```bash
