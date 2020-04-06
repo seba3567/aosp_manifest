@@ -7,7 +7,7 @@
 
   <!-- GitHub (sourajitk) -->
   <remote  name="sourajitk"
-           revision="10_r32"
+           revision="10"
            fetch="https://github.com/sourajitk/" />
 
 <!-- Framework -->
