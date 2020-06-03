@@ -54,28 +54,4 @@
   <remove-project name="device/google/coral-kernel" />
   <remove-project name="device/google/coral-sepolicy" />
   <remove-project name="device/google/contexthub" />
-
-
-  <!-- Framework -->
-  <remove-project name="platform/frameworks/base" />
-
-  <!-- Packages -->
-  <remove-project name="platform/packages/apps/Bluetooth" /> 
-  <remove-project name="platform/packages/apps/Browser2" />
-  <remove-project name="platform/packages/apps/Calendar" />
-  <remove-project name="platform/packages/apps/Camera2" />
-  <remove-project name="platform/packages/apps/DevCamera" />
-  <remove-project name="platform/packages/apps/DeskClock" />
-  <remove-project name="platform/packages/apps/Email" />
-  <remove-project name="platform/packages/apps/Settings" />
-  <remove-project name="platform/packages/apps/LegacyCamera" />
-  <remove-project name="platform/packages/apps/Gallery" />
-  <remove-project name="platform/packages/apps/Messaging" />
-  <remove-project name="platform/packages/apps/QuickSearchBox" />
-  <remove-project name="platform/packages/apps/SoundRecorder" />
-  <remove-project name="platform/packages/apps/Contacts" />
-  <remove-project name="platform/packages/apps/Dialer" />
-  <remove-project name="platform/packages/apps/ThemePicker" />
-
-  
 </manifest>

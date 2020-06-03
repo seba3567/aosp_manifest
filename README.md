@@ -8,7 +8,7 @@ This is just a fork of the latest AOSP manifest with some of my own repos being 
 
 ## Repo Init ##
 ```bash
-repo init -u https://github.com/sourajitk/aosp_manifest.git -b 10
+repo init -u https://github.com/seba3567/aosp_manifest.git -b 10
 ```
 ## Sync Source ##
 ```bash
